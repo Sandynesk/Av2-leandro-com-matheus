@@ -1,0 +1,40 @@
+.Nav{
+    background-color: rgb(2, 112, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 120px;
+}
+
+.nav-list{
+    display: flex;
+    color: white;
+    text-decoration:wavy ;
+    
+}
+
+.nav-components{
+    padding:40px;
+    position: relative;
+    font-size: 20px;
+    
+   
+
+}
+
+.Logo{
+    width: auto;
+    height: 60px;
+    position: relative;
+    top: 50px;
+    
+
+
+}
+
+.Nav-conteine{
+   
+ 
+    
+}
